@@ -6,7 +6,7 @@ Learned how to set up the backend for a simple e-commerce website.
 
 ## Usage
 
-View walkthrough video here: [insert later]
+View walkthrough video here: (https://watch.screencastify.com/v/pbPPbf5ciU52SobnQ3iV)
 
 ## Credits
 
